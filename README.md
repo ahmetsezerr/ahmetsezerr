@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 Currently working on HTML5, CSS, PHP, OracleSQL, Java and Springboot.
+🔭 Currently working on Java  Springboot,React.
 
 <div align=center>
   
