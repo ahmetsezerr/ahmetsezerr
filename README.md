@@ -1,4 +1,4 @@
-# 💫 About me:
+#  Hi, I am Ahmet
 🔭 Currently working on Java  Springboot,React.
 
 <div align=center>
