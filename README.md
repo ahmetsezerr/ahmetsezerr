@@ -1,6 +1,5 @@
 #                                                                                                                Hi, I am Ahmet
-🔭 Currently working on Java  Springboot,React.
-
+#  I’m a Java Developer focused on building efficient web applications with Spring Boot and React. Passionate about backend development and always exploring new technologies.
 <div align=center>
   
 [![](https://visitcount.itsvg.in/api?id=ahmetsezerr&icon=5&color=12)](https://visitcount.itsvg.in)
