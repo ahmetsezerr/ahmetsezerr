@@ -12,7 +12,7 @@ I’m a Java Developer focused on building efficient web applications with Sprin
     <img src="https://skillicons.dev/icons?i=git,java,spring,nodejs,postgres,js,ts,react,vite,bootstrap,tailwind," />
   </a>
 </p>
-###
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetsezerr/ahmetsezerr/output/github-contribution-grid-snake-dark.svg">
