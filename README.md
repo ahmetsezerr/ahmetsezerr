@@ -4,7 +4,7 @@ I’m a Java Developer focused on building efficient web applications with Sprin
 
 **For More Details** 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ahmet-sezerr/) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-sezerr/) 
 
 **Languages, Technologies and Tools I use**
 <p align="center">
