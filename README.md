@@ -9,7 +9,7 @@ I’m a Java Developer focused on building efficient web applications with Sprin
 **Languages, Technologies and Tools I use**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,nodejs,postgres,js,ts,react,vite,bootstrap,tailwind," />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,nodejs,python,postgres,js,ts,react,vite,bootstrap,tailwind," />
   </a>
 </p>
 
