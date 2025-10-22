@@ -1,6 +1,6 @@
 
 ## Hello, this is **Ahmet Sezer**
-I’m a Java Developer focused on building efficient web applications with Spring Boot and React. Passionate about backend development and always exploring new technologies.
+Java Developer with a focus on building efficient, scalable web applications using Spring Boot and React. Passionate about both robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
 
 **For More Details** 
 
