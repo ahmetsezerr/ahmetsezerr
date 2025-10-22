@@ -9,7 +9,7 @@ Java Developer with a focus on building efficient, scalable web applications usi
 **Languages, Technologies and Tools I use**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,nodejs,python,postgres,js,ts,react,vite,bootstrap,tailwind," />
+    <img src="https://skillicons.dev/icons?i=git,java,yolov8,spring,nodejs,python,postgres,js,ts,react,vite,bootstrap,tailwind," />
   </a>
 </p>
 
