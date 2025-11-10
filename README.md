@@ -4,7 +4,7 @@ Java Developer with a focus on building efficient, scalable web applications usi
 
 **For More Details** 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-sezerr/) 
+ [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-sezerr/) 
 
 **Languages, Technologies and Tools I use**
 <p align="center">
