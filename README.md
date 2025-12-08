@@ -6,7 +6,7 @@
 </div>
 
 ## Hello, this is **Ahmet Sezer**
-Java Developer with a focus on building efficient, scalable web applications using Spring Boot and React. Passionate about both robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
+Computer Engineering student specializing in building efficient and scalable web applications using Spring Boot and React. Passionate about robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
 
 **For More Details** 
 
