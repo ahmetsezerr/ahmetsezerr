@@ -1,3 +1,9 @@
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0CF787&textBg=false" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=500&size=24&duration=2500&pause=1000&color=0CF787&center=true&width=435&lines=Welcome+to+my+GitHub+profile+%3A)" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Hello, this is **Ahmet Sezer**
 Java Developer with a focus on building efficient, scalable web applications using Spring Boot and React. Passionate about both robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
