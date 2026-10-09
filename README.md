@@ -6,7 +6,7 @@
 </div>
 
 ## Hello, this is **Ahmet Sezer**
-As a Compuer Engineer specializing in building efficient and scalable web applications using Spring Boot and React. Passionate about robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
+As a Backend Engineer specializing in building efficient and scalable web applications using Spring Boot and React. Passionate about robust backend development and exploring the integration of Machine Learning and Image Processing to create intelligent, data-driven solutions.
 
 **For More Details** 
 
